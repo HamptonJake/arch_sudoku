@@ -1,3 +1,4 @@
+#include <stdio.h>
 extern void *returnsp();
 int trycell(int *x, int pos)
 {
